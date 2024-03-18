@@ -1,0 +1,18 @@
+body {
+    background-color: #9cf;
+    color: #06f;
+}
+
+.item_menu {
+    color: #0066ff;
+    background-color: #039;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+
+#banner {
+    color: #fff;
+    background-color: 09cf;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
